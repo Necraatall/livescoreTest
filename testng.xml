@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="test.java">
+    <test name="org.example">
+        <classes>
+            <class name="org.example.livescore1">
+            </class>
+        </classes>
+    </test>
+</suite>
