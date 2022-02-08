@@ -2,7 +2,7 @@
 <suite name="test.java">
     <test name="org.example">
         <classes>
-            <class name="org.example.livescore1">
+            <class name="org.example.event_info">
             </class>
         </classes>
     </test>
